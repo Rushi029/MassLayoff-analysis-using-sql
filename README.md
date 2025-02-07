@@ -1,6 +1,6 @@
 ## Layoffs Data Analysis with MySQL
 
-📌 Project Overview
+##📌 Project Overview
 This project focuses on Exploratory Data Analysis (EDA) and Data Cleaning of a Layoffs Dataset using MySQL. The dataset contains information about company layoffs, including affected industries, locations, funding, and trends over time.
 
 📂 Dataset Information
